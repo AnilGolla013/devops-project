@@ -5,6 +5,6 @@ public class test {
             System.err.println("TEST FAILED: add(2,3) != 5");
             System.exit(1);
         }
-        System.out.println("All tests passed");
+        System.out.println("All tests passed!! Successfully......");
     }
 }
